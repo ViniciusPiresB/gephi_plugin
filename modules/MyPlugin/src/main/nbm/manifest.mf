@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: My Plugin
+OpenIDE-Module-Short-Description: Plugin catch-phrase
+OpenIDE-Module-Long-Description: Plugin features are great
+OpenIDE-Module-Display-Category: Layout
